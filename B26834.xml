@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case of William Mildmay, Esq. respondent to the petition and appeal of Thomas Ducket, Esq., appealant : humbly offered to the consideration of the Right Honourable the Lords spiritual and temporal in Parliament assembled.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26834</idno><idno type="EEBO-CITATION">14956574</idno>
+  <idno type="VID">206141</idno>
+  <idno type="EEBO-PROQUEST">2248513194</idno>
+  
+            <idno type="STC">Wing M2040A</idno>
+            <idno type="OCLC">14956574</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26834)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206141)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1575:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case of William Mildmay, Esq. respondent to the petition and appeal of Thomas Ducket, Esq., appealant : humbly offered to the consideration of the Right Honourable the Lords spiritual and temporal in Parliament assembled.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1678?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Mildmay, William, fl. 1656-1676.</term>
+               <term type="topical_term">Trusts and trustees --  Cases.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="court_case">
+            <pb facs="tcp:206141:1"/>
+            <head>The Case of William Mildmay, Esq; Respondent to the Petition and Appeal of <hi>Thomas Ducket</hi> Esq; <hi>Appealant.</hi>
+            </head>
+            <head type="sub">Humbly offered to the Consideration of the Right Honourable the Lords Spiritual and Temporal, in <hi>PARLIAMENT</hi> assembled.</head>
+            <p>
+               <hi>WIlliam Mildmay</hi> being intitled to 6000 <hi>l.</hi> and Interest, and Profits received out of Leases at <hi>Highbury</hi> and <hi>Islington,</hi> which was Devised by the Lady <hi>Mildmay,</hi> his Mother, to Sir <hi>Jeremy,</hi> and Dr. <hi>Whichcot,</hi> and Mr. <hi>Clutterbuck,</hi> Trustees, to pay thereout to the said <hi>William 400 l. per Annum</hi> for Maintenance, and, after Charges deducted, the residue to be laid out in a Purchase, in the said Trustees names, to be setled to the use of <hi>William</hi> for Life, and to his first, and other Sons in Tail, with Remainder to <hi>Henry Mildmay,</hi> his younger Brother, and his Issue Male in like manner. And the said Lady <hi>Mildmay</hi> having given the Trustees 5000 <hi>l.</hi> to be laid out in Land, to be settled on her Daughter <hi>Anne-Margaret,</hi> and if she dyed without Issue, to the same Uses as the purchased Premises were to be: of which 5000 <hi>l. 3500 l.</hi> was laid out in a Pur<g ref="char:EOLhyphen"/>chase of the Mannor of <hi>Henstead,</hi> in the Trustees names, and 1500 <hi>l.</hi> remained in Money, and <hi>Anne-Margaret</hi> being dead without Issue, and <hi>William Mildmay,</hi> having from his Mothers death in 1656. been carefully looked after by the Trustees, and the Lady <hi>Hungerford,</hi> his Aunt, to whom he was Heir at Law, and who had placed him at the University of <hi>Cambridge,</hi> and by an Oath charged a Sober man with the care of him, he being weak in Understanding.</p>
+            <p>About 1665. Mr. <hi>Ducket</hi> being some Kin to him, got him to his House near <hi>Cambridge,</hi> when the Visitation was there, and perswaded him to live with him; and having in 1667. and 1668. got him to make Wills, and give his Estate to Mr. <hi>Ducket</hi> and his Children, and, upon pretence of Kindness and Friendship to him, advised him to call the Trustees to an Account, seeing the Purchases were not made, and to make him, the said Mr. <hi>Ducket,</hi> his Attorney for that purpose: But <hi>Ducket,</hi> having a Design upon the Estate, got a Deed of Gift of his whole Estate, upon conside<g ref="char:EOLhyphen"/>ration to find him two Servants, Diet, and keep him two Horses, and give him 50 <hi>l. per Annum</hi> for Expences.</p>
+            <p>And that Deed was in nature of a Letter of Attorney, to sue for the Estate, but to <hi>Ducket</hi>'s own Use, wherein was a Covenant not to release any Money but by <hi>Duckets</hi> Consent, or to revoke the Letter of Attorney, and every year, till the Estate received in, to give another such Deed.</p>
+            <p>In 1668. <hi>Ducket</hi> exhibited a Bill against the Trustees in <hi>William Mildmay</hi>'s name, and the Trustees acquainted the Court, that they feared a De<g ref="char:EOLhyphen"/>sign upon him, but Mr. <hi>Ducket</hi> being examined as a Witness in that Cause, and swearing that the said Deed was by Law revocable, and that he loved <hi>William Mildmay</hi> so well, that whenever he Remanded it, he would comply. In <hi>May</hi> 1669. it was Decreed,</p>
+            <p>
+               <hi>That the Trust be performed according to the Lady</hi> Mildmay's <hi>Will in all things: and onely</hi> Clutterbuck <hi>having acted in the Trust, he was to account for the 6000 l. and Profits, and Rents of the Leases: And what due upon the Acc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unt, after the Arrears of the</hi> 400 l. per Annum <hi>paid, to be applied accor<g ref="char:EOLhyphen"/>ding to the Trust, and laid out in purchasing Lands in a Year.</hi>
+            </p>
+            <p>Within a Month after that Decree made, there was an Order made in the <hi>Chancery,</hi> which was in effect to destroy the Decree, <hi>viz.</hi> That the Money should be put out on Security to be proposed by <hi>William Mildmay:</hi> which doing Mr. <hi>Duckets</hi> Business, he in a Month gets <hi>Clutterbuck</hi>'s Account stated in general, Received 14029 <hi>l.</hi> and disbursed <hi>5440l.</hi> and so remains in his hands 7480 <hi>l.</hi> without any particular of Receits or Payments. And the same day the Report confirmed by consent.</p>
+            <p>And in <hi>October 1669. Henstead,</hi> by reason of <hi>Anne-Margaret</hi>'s Death with<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut Issue, and Sir <hi>Robert Brook</hi> her Husband's Death, coming to <hi>Willi<g ref="char:EOLhyphen"/>am Mildmay, Ducket</hi> got the like Deed of Gift again, as before, and then he pocures another Order, That the 7480 <hi>l.</hi> should be put out, on Secu<g ref="char:EOLhyphen"/>rity to be proposed by <hi>William Mildmay,</hi> and allowed by the Master. And a Report from Sir <hi>Mundiford Bramstone,</hi> That <hi>Clutterbuck</hi> should assign Securities he had from Sir <hi>Robert Brook</hi> for 1796 <hi>l.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> proposed by <hi>Ducket</hi> for 2800 <hi>l.</hi>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore to be paid by <hi>Clutterbuck.</hi> And the same day the Report was con<g ref="char:EOLhyphen"/>firmed.</p>
+            <p>And for so much <hi>Ducket</hi> makes <hi>William</hi> release <hi>Clutterbuck.</hi> But the Master<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Report mentions not to whom the Money was lent.</p>
+            <p>But it was put out, 2000 <hi>l.</hi> to <hi>Henry Mildmay, 500 l.</hi> to <hi>Ducket,</hi> and 300 <hi>l.</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Mr. upon their own Securities, taken to <hi>Willlam Mildmay,</hi> and Sir <hi>Robert Brook</hi>'s Security was assigned to <hi>William Mildmay</hi> without mention of the Trust.</p>
+            <p>And <hi>Ducket</hi> having vested that 2800 <hi>l.</hi> and 1796 <hi>l.</hi> in <hi>William Mildmay,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ithout any Trust appearing in the Securities, and having received 800 <hi>l.</hi> before, and other Goods and Moneys of <hi>William Mildmay</hi>'s, to make <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll sure to himself; <hi>Ducket</hi> having turned away the Tutor appointed by the Lady <hi>Hungerford</hi> to take care of Mr. <hi>Mildmay.</hi>
+            </p>
+            <p>
+               <hi>Jan.</hi> 12. 1670. Gets an absolute Assignment from <hi>William Mildmay</hi> of <hi>Br<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oks</hi>'s Security, for 1796 <hi>l.</hi> and <hi>Henry Mildmay</hi>'s and the Master's Se<g ref="char:EOLhyphen"/>curities to himself, and a General Release. <hi>Ducket</hi> having before got fro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him also a Lease for 99 years, of the <hi>Hensted</hi> Estate and Fine, which Estate cost 3500 <hi>l.</hi>
+            </p>
+            <p>In 1672. <hi>Clutterbuck</hi> being to pay 2883 <hi>l.</hi> residue of the Money in his hands, the Mr. allowed Securities for that also, proposed by <hi>Ducket,</hi> taken in <hi>William Mildmay</hi>'s name, but never said who they were, nor to this day can it be learned, other than that <hi>Henry Mildmay</hi> had 500 <hi>l.</hi> and <hi>Ducket 300 l.</hi> more, upon their own Recogn'. and thereupon <hi>Clutterbuck</hi> is discharged.</p>
+            <p>And in 1673. <hi>Ducket</hi> received in all the Money (except <hi>Henr. Mildmay</hi>'s and Sir <hi>Mondiford Bramston</hi>'s) and also 1500 <hi>l.</hi> more which Sir <hi>Ro<g ref="char:EOLhyphen"/>bert Brook</hi> owed, as the Residue of the 5000 <hi>l▪</hi> And having procured <hi>William Mildmay</hi> to Discharge and Assign those Securities, and to discharge <hi>Clutterbuck:</hi> by which <hi>Ducket</hi> let <hi>Clutterbuck</hi> get 600 <hi>l. (300 l.</hi> by a miscomputation, and near 300 <hi>l.</hi> as an Abatement to pay the rest) <hi>Ducket</hi> ha<g ref="char:EOLhyphen"/>ving then the whole Moneys and Securities in his hands.</p>
+            <p>In <hi>Octob.</hi> 1674. Procured <hi>Will. Mildmay</hi> to make him a General Release, to Convey <hi>Henstead</hi> Estate by Lease, and Release to him and his Heirs, and to grant him all his Goods, Chattels, and Debts, Money, Plate, Jewels (except his wearing Apparel) And for this Mr. <hi>Ducket</hi> pretends he Co<g ref="char:EOLhyphen"/>venanted to provide Diet for <hi>William Mildmay,</hi> and two Servants, and two Horses, and to pay him 50 <hi>l. per Ann.</hi> for Pocket Expences. Of which 50 <hi>l. per Ann. 30 l. per Ann.</hi> was setled on Mr. <hi>Clerk,</hi> that had been <hi>William</hi>'s Servant, for his Life. All which Provisions by<note place="margin">
+                  <p>
+                     <table>
+                        <row>
+                           <cell>
+                              <hi>Of Clutterbuck</hi>
+                           </cell>
+                           <cell>7480.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Hensted Lands</hi>
+                           </cell>
+                           <cell>3500.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Remainder of the 5000 l.</hi>
+                           </cell>
+                           <cell>1500.</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>12480</cell>
+                        </row>
+                     </table>
+                  </p>
+               </note>Mr. <hi>Ducket</hi> (in the Countrey) could not come to 150 <hi>l. per Annum,</hi> but for it he hath got in Money, Land, and Securities, as in the Margent, 12480 <hi>l.</hi> And had received the Interest thereof, from 1668. and the Profits of <hi>Hensted</hi> Estate, and of <hi>Highbury</hi> and <hi>Islington</hi> Leases, besides several Goods, Jewels, and Plate: Whereby the Trust of the Lady <hi>Milldmay</hi>'s Will was in danger wholly to be Defeated: But the said <hi>William</hi> having married into a good Family, and a Deserving Wife, he and Dr. <hi>Whitchcot,</hi> the surviving Trustee, and other Persons, as Trustees, by Conveyance of <hi>William,</hi> whereby is provided for the full and due Execution of the Trust, according to the Lady <hi>Mildmay</hi>'s Will, Exhibited their Bill in <hi>Chancery,</hi> to set aside the Deeds, Releases and Conveyances to Mr. <hi>Ducket,</hi> and to have <hi>Ducket</hi> Reconvey the Estate to the Uses of the Lady <hi>Mildmay</hi>'s Will.</p>
+            <p>And the Court of Chancery taking notice of the several Frauds put upon the Court, in eluding the first Decree, and it being fully proved, both under <hi>Ducket</hi>'s own hand, and by Witnesses, That he owned since the Conveyances in 1674. That what was done, was onely for the Good of <hi>William Mildmay,</hi> and in Trust for him; and there being several other clear proofs of such Trust, the said Court did relieve the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid Plain<g ref="char:EOLhyphen"/>tiffs, for setting aside such Deeds, and for Mr. <hi>Ducket</hi>'s Reconveying, and paying 4300l. Principal Money, confessed to be received by him, and his accounting for the Residue of the Profits of the Estate: and yet were so kind to him, to allow him 550 l. <hi>per Ann.</hi> for maintaining the said <hi>William</hi> till his Marriage in 1676. though he could no wayes spend 150 l. <hi>per Ann.</hi>
+            </p>
+            <p>But he being not satisfied, has occasioned this Appeal, and stay'd Proceedings against him for the said Money, to the great danger of losing the same: And his Case being so Unjust, Unreasonable, and Foul, the Defendent in this Appeal doubts not your Lordships Justice, to dismiss the Peti<g ref="char:EOLhyphen"/>tion, and award good Costs for this Vexation, the Appealant having given Security in <hi>Chancery</hi> to pay such Costs, when your Lordships shall award the same.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
